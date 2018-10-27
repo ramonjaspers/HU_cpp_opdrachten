@@ -1,0 +1,5 @@
+<student>
+    <naam>Ramon Jaspers</naam>
+    <studentnummer>1719051</studentnummer>
+    <klas>V1B</klas>
+</student>
